@@ -1,0 +1,11 @@
+<suite name = "Suite">
+    <test name = "Test">
+        <classes>
+            <class name = "org.example.bridgelabz.LginPageTest"></class>
+            <class name = "org.example.bridgelabz.HomePageTest"></class>
+            <class name="org.example.bridgelabz.MyAccountTest"></class>
+            <class name="org.example.bridgelabz.ShippingPageTest"></class>
+            <class name="org.example.dataDriven.DataDrivenTest"></class>
+        </classes>
+    </test>
+</suite>

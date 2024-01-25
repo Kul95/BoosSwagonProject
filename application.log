@@ -1,0 +1,36 @@
+2024-01-23 17:44:20 INFO  LoginPage:21 - Start execution
+  2024-01-23 17:44:42 INFO  LoginPage:33 - Execute test
+  2024-01-23 17:46:13 INFO  LoginPage:21 - Start execution
+  2024-01-23 17:46:32 INFO  LoginPage:33 - log test successfully
+  2024-01-25 12:22:13 INFO  LoginPage:21 - Start execution
+  2024-01-25 12:25:33 INFO  LoginPage:12 - Test start setLoginPage
+  2024-01-25 12:33:26 INFO  LoginPage:21 - Start execution
+  2024-01-25 12:33:42 INFO  LoginPage:12 - Test start setLoginPage
+  2024-01-25 12:33:51 INFO  LoginPage:33 - log test successfully
+  2024-01-25 12:33:51 INFO  LoginPage:16 - Test Success setLoginPage
+  2024-01-25 12:34:28 INFO  LoginPage:12 - Test start setHomePage
+  2024-01-25 12:34:39 INFO  LoginPage:16 - Test Success setHomePage
+  2024-01-25 13:22:35 INFO  LoginPage:21 - Start execution
+  2024-01-25 13:22:48 INFO  LoginPage:12 - Test start setLoginPage
+  2024-01-25 13:22:55 INFO  LoginPage:33 - log test successfully
+  2024-01-25 13:22:55 INFO  LoginPage:16 - Test Success setLoginPage
+  2024-01-25 13:23:29 INFO  LoginPage:12 - Test start setHomePage
+  2024-01-25 13:23:41 INFO  LoginPage:16 - Test Success setHomePage
+  2024-01-25 13:24:01 INFO  LoginPage:12 - Test start sMyAccount
+  2024-01-25 13:24:11 INFO  LoginPage:16 - Test Success sMyAccount
+  2024-01-25 13:24:59 INFO  LoginPage:12 - Test start setShippingPage1
+  2024-01-25 13:25:54 INFO  LoginPage:16 - Test Success setShippingPage1
+  2024-01-25 15:06:36 INFO  LoginPage:21 - Start execution
+  2024-01-25 15:06:54 INFO  LoginPage:12 - Test start setLoginPage
+  2024-01-25 15:07:03 INFO  LoginPage:33 - log test successfully
+  2024-01-25 15:07:03 INFO  LoginPage:16 - Test Success setLoginPage
+  2024-01-25 16:26:29 INFO  LoginPage:22 - Start execution
+  2024-01-25 16:27:06 INFO  LoginPage:12 - Test start setLoginPage
+  2024-01-25 16:27:40 INFO  LoginPage:12 - Test start setHomePage
+  2024-01-25 16:28:20 INFO  LoginPage:12 - Test start sMyAccount
+  2024-01-25 16:28:39 INFO  LoginPage:16 - Test Success sMyAccount
+  2024-01-25 16:29:12 INFO  LoginPage:12 - Test start setShippingPage1
+  2024-01-25 16:29:48 INFO  LoginPage:12 - Test start loginTest
+  2024-01-25 16:29:48 INFO  LoginPage:12 - Test start loginTest
+  2024-01-25 16:29:48 INFO  LoginPage:12 - Test start loginTest
+  
